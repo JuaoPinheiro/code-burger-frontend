@@ -43,6 +43,6 @@ export const Container = styled.div`
         flex-direction: row;
         justify-content: space-between;
         font-size: 24px;
-        margin-top: 50px;
+        margin-top: 140px;
     }
 `

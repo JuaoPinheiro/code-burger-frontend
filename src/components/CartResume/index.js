@@ -5,6 +5,7 @@ import { useCart } from '../../hooks/CartContext'
 import api from '../../services/api'
 import formatCurrency from '../../utils/formatCurrency'
 import { Button } from '../Button'
+import 'react-toastify/dist/ReactToastify.css'
 import { Container } from './styles'
 
 export function CartResume() {
